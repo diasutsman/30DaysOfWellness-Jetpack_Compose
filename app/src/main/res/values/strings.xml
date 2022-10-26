@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">30 Days Of Wellness</string>
+
+    <string name="summary_1">Spend 15 minutes outdoors</string>
+    <string name="description_1">Put some time on your calendar to take a walk outside or maybe even take a meeting while you\'re strolling through your neighborhood</string>
+
+    <string name="summary_2">Listen to a new podcast or audiobook</string>
+    <string name="description_2">Get spotify premium you peasant!</string>
+    <string name="day">Day %s</string>
+</resources>
